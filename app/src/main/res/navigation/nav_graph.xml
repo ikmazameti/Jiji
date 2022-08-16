@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="io.mawulikwashigahazameti.jiji.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/navigation_favorite"
+        android:name="io.mawulikwashigahazameti.jiji.FavoriteFragment"
+        android:label="fragment_favorite"
+        tools:layout="@layout/fragment_favorite" />
+    <fragment
+        android:id="@+id/navigation_messages"
+        android:name="io.mawulikwashigahazameti.jiji.MessagesFragment"
+        android:label="fragment_messages"
+        tools:layout="@layout/fragment_messages" />
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="io.mawulikwashigahazameti.jiji.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/navigation_sell"
+        android:name="io.mawulikwashigahazameti.jiji.SellFragment"
+        android:label="fragment_sell"
+        tools:layout="@layout/fragment_sell" />
+</navigation>

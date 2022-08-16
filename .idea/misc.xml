@@ -9,8 +9,17 @@
         <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/drawable/search_bg.xml" value="0.142" />
         <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/activity_main2.xml" value="0.15185185185185185" />
         <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/content_home.xml" value="0.17222222222222222" />
+        <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/fragment_dashboard.xml" value="0.15185185185185185" />
+        <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/fragment_messages.xml" value="0.15185185185185185" />
+        <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/fragment_notifications.xml" value="0.15185185185185185" />
+        <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/item_category.xml" value="0.15462962962962962" />
+        <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/item_product.xml" value="0.1" />
         <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/menu/bottom_nav_menu.xml" value="0.15185185185185185" />
+        <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/menu/menu_bottom_nav.xml" value="0.15185185185185185" />
         <entry key="..\:/workspace/mikaware/Jiji/app/src/main/res/menu/menu_home.xml" value="0.1" />
       </map>
     </option>
@@ -20,5 +29,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
   </component>
 </project>
